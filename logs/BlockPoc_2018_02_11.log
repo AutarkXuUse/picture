@@ -1,0 +1,1014 @@
+[2018-02-11T11:12:07.095] [INFO] BlockPoc - register an api:/client/1.0/putchainmsg
+[2018-02-11T11:12:07.098] [INFO] BlockPoc - register an api:/client/1.0/replymsg
+[2018-02-11T11:12:07.098] [INFO] BlockPoc - register an api:/client/1.0/getreplymsg
+[2018-02-11T11:12:07.120] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T11:12:07.126] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:38:56.004] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:38:58.179] [INFO] BlockPoc - register an api:/client/1.0/putchainmsg
+[2018-02-11T20:38:58.189] [INFO] BlockPoc - register an api:/client/1.0/replymsg
+[2018-02-11T20:38:58.189] [INFO] BlockPoc - register an api:/client/1.0/getreplymsg
+[2018-02-11T20:38:58.208] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:38:58.222] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:42:28.795] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------422848704259299717566450
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------422848704259299717566450
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------422848704259299717566450--
+, account:undefined, token:undefined
+[2018-02-11T20:43:01.577] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:43:03.290] [INFO] BlockPoc - register an api:/client/1.0/putchainmsg
+[2018-02-11T20:43:03.294] [INFO] BlockPoc - register an api:/client/1.0/replymsg
+[2018-02-11T20:43:03.295] [INFO] BlockPoc - register an api:/client/1.0/getreplymsg
+[2018-02-11T20:43:03.302] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:43:03.308] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:43:55.516] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:43:57.236] [INFO] BlockPoc - register an api:/client/1.0/putchainmsg
+[2018-02-11T20:43:57.240] [INFO] BlockPoc - register an api:/client/1.0/replymsg
+[2018-02-11T20:43:57.241] [INFO] BlockPoc - register an api:/client/1.0/getreplymsg
+[2018-02-11T20:43:57.248] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:43:57.255] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:44:00.255] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------199082956962187213803316
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------199082956962187213803316
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------199082956962187213803316--
+, account:%s, token:%s
+[2018-02-11T20:45:24.699] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:45:26.472] [INFO] BlockPoc - register an api:/client/1.0/putchainmsg
+[2018-02-11T20:45:26.475] [INFO] BlockPoc - register an api:/client/1.0/replymsg
+[2018-02-11T20:45:26.475] [INFO] BlockPoc - register an api:/client/1.0/getreplymsg
+[2018-02-11T20:45:26.482] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:45:26.490] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:45:30.820] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------204493820538283342269396
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------204493820538283342269396
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------204493820538283342269396--
+, account:%s, token:%s
+[2018-02-11T20:45:43.630] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------744181776054433995036130
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------744181776054433995036130
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------744181776054433995036130--
+, account:%s, token:%s
+[2018-02-11T20:46:20.249] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------425390205118173171691012
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------425390205118173171691012
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------425390205118173171691012--
+, account:%s, token:%s
+[2018-02-11T20:47:57.078] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:47:58.960] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:47:58.963] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:47:58.963] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:47:58.972] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:47:58.979] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:48:03.311] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------794153878941859824649048
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------794153878941859824649048
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------794153878941859824649048--
+, account:%s, token:%s
+[2018-02-11T20:48:23.394] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:48:25.251] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:48:25.255] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:48:25.255] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:48:25.262] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:48:25.269] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:48:31.386] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------625464469607057319630975
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------625464469607057319630975
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------625464469607057319630975--
+, account:%s, token:%s
+[2018-02-11T20:49:04.239] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:49:05.940] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:49:05.943] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:49:05.943] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:49:05.950] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:49:05.957] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:49:08.338] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------784209914598812855111018
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------784209914598812855111018
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------784209914598812855111018--
+, account:%s, token:%s
+[2018-02-11T20:50:09.987] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:50:11.071] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:50:11.074] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:50:11.074] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:50:11.081] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:50:11.087] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:50:19.485] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------145777019031765458026386
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------145777019031765458026386
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------145777019031765458026386--
+, account:%s, token:%s
+[2018-02-11T20:50:53.753] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:50:55.398] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:50:55.401] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:50:55.402] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:50:55.408] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:50:55.415] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:50:56.967] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------687924320904942729144725
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------687924320904942729144725
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------687924320904942729144725--
+, account:%s, token:%s
+[2018-02-11T20:51:45.851] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:51:47.542] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:51:47.545] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:51:47.546] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:51:47.552] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:52:09.754] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:53:28.385] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:53:30.085] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:53:30.088] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:53:30.089] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:53:30.095] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:53:30.104] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:53:34.611] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------264454833402887968583988
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------264454833402887968583988
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------264454833402887968583988--
+, account:%s, token:%s
+[2018-02-11T20:54:11.582] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:54:13.344] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:54:13.347] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:54:13.348] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:54:13.355] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:54:13.362] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:54:15.288] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------629493974491913424705236
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------629493974491913424705236
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------629493974491913424705236--
+, account:%s, token:%s
+[2018-02-11T20:54:27.484] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------874614436728815086370153
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------874614436728815086370153
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------874614436728815086370153--
+, account:%s, token:%s
+[2018-02-11T20:54:41.900] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:55:01.688] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:55:01.691] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:55:01.691] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:55:01.697] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:55:01.703] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:55:04.533] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------080144237297149717748153
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------080144237297149717748153
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------080144237297149717748153--
+, account:%s, token:%s
+[2018-02-11T20:55:14.905] [ERROR] BlockPoc - onPutChainMsg，Error: Error: Invalid JSON RPC response: ""
+[2018-02-11T20:55:14.907] [ERROR] BlockPoc - uncaught exception: TypeError: Cannot read property 'write' of undefined
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:19:17)
+    at web3.eth.personal.unlockAccount (/Users/apple/program/poc_2018_02/rpc/eth.js:161:20)
+    at Object._fireError (/Users/apple/program/poc_2018_02/node_modules/web3-utils/src/index.js:60:9)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:471:30)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:133:20
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:544:12)
+    at ClientRequest.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:414:24)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T20:55:27.139] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:56:11.743] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:56:11.746] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:56:11.747] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:56:11.753] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:56:11.759] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:56:14.797] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------720998679881556356674697
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------720998679881556356674697
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------720998679881556356674697--
+, account:%s, token:%s
+[2018-02-11T20:56:21.903] [ERROR] BlockPoc - onPutChainMsg，Error: Error: Invalid JSON RPC response: ""
+[2018-02-11T20:56:21.906] [ERROR] BlockPoc - uncaught exception: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer
+    at write_ (_http_outgoing.js:654:11)
+    at ServerResponse.write (_http_outgoing.js:629:10)
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:19:17)
+    at web3.eth.personal.unlockAccount (/Users/apple/program/poc_2018_02/rpc/eth.js:161:20)
+    at Object._fireError (/Users/apple/program/poc_2018_02/node_modules/web3-utils/src/index.js:60:9)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:471:30)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:133:20
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:544:12)
+    at ClientRequest.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:414:24)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T20:56:35.248] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:56:36.584] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:56:36.587] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:56:36.588] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:56:36.594] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:56:36.601] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:56:41.210] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------508881611313384439255243
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------508881611313384439255243
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------508881611313384439255243--
+, account:%s, token:%s
+[2018-02-11T20:57:14.985] [ERROR] BlockPoc - onPutChainMsg，Error: Error: Invalid JSON RPC response: ""
+[2018-02-11T20:57:14.987] [ERROR] BlockPoc - uncaught exception: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer
+    at write_ (_http_outgoing.js:654:11)
+    at ServerResponse.write (_http_outgoing.js:629:10)
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:19:17)
+    at web3.eth.personal.unlockAccount (/Users/apple/program/poc_2018_02/rpc/eth.js:161:20)
+    at Object._fireError (/Users/apple/program/poc_2018_02/node_modules/web3-utils/src/index.js:60:9)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:471:30)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:133:20
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:544:12)
+    at ClientRequest.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:414:24)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T20:57:15.024] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T20:57:16.907] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:57:16.910] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:57:16.911] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:57:16.918] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:57:16.924] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T20:57:19.249] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------539860299221663207130993
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------539860299221663207130993
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------539860299221663207130993--
+, account:%s, token:%s
+[2018-02-11T20:57:35.973] [ERROR] BlockPoc - onPutChainMsg，Error: Error: Invalid JSON RPC response: ""
+[2018-02-11T20:57:35.974] [ERROR] BlockPoc - uncaught exception: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer
+    at write_ (_http_outgoing.js:654:11)
+    at ServerResponse.write (_http_outgoing.js:629:10)
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:19:17)
+    at web3.eth.personal.unlockAccount (/Users/apple/program/poc_2018_02/rpc/eth.js:161:20)
+    at Object._fireError (/Users/apple/program/poc_2018_02/node_modules/web3-utils/src/index.js:60:9)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:471:30)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:133:20
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:544:12)
+    at ClientRequest.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:414:24)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T20:57:58.147] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T20:57:58.150] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T20:57:58.151] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T20:57:58.157] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T20:57:58.163] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:00:02.923] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------500437801582339882294434
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------500437801582339882294434
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------500437801582339882294434--
+, account:%s, token:%s
+[2018-02-11T21:00:02.966] [ERROR] BlockPoc - onPutChainMsg，Error: Error: Invalid JSON RPC response: ""
+[2018-02-11T21:00:02.967] [ERROR] BlockPoc - uncaught exception: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer
+    at write_ (_http_outgoing.js:654:11)
+    at ServerResponse.write (_http_outgoing.js:629:10)
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:19:17)
+    at web3.eth.personal.unlockAccount (/Users/apple/program/poc_2018_02/rpc/eth.js:161:20)
+    at Object._fireError (/Users/apple/program/poc_2018_02/node_modules/web3-utils/src/index.js:60:9)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:471:30)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:133:20
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:544:12)
+    at ClientRequest.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:414:24)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T21:00:02.970] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:00:05.080] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:00:05.084] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:00:05.084] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:00:05.090] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:00:05.097] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:01:22.957] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:----------------------------034722678847671668898069
+Content-Disposition: form-data; name="member"
+
+fengtai
+----------------------------034722678847671668898069
+Content-Disposition: form-data; name="data"
+
+qwerty
+----------------------------034722678847671668898069--
+, account:%s, token:%s
+[2018-02-11T21:01:23.002] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:01:25.209] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:01:25.212] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:01:25.213] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:01:25.219] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:01:25.226] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:02:05.222] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:02:07.219] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:02:07.222] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:02:07.222] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:02:07.228] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:02:07.235] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:02:17.501] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:03:28.324] [ERROR] BlockPoc - onPutChainMsg，Error: Error: Invalid JSON RPC response: ""
+[2018-02-11T21:03:28.333] [ERROR] BlockPoc - uncaught exception: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer
+    at write_ (_http_outgoing.js:654:11)
+    at ServerResponse.write (_http_outgoing.js:629:10)
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:19:17)
+    at web3.eth.personal.unlockAccount (/Users/apple/program/poc_2018_02/rpc/eth.js:161:20)
+    at Object._fireError (/Users/apple/program/poc_2018_02/node_modules/web3-utils/src/index.js:60:9)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:471:30)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:133:20
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:544:12)
+    at ClientRequest.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:414:24)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T21:08:14.203] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:08:16.250] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:08:16.254] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:08:16.254] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:08:16.261] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:08:16.268] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:08:19.222] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:11:08.084] [INFO] BlockPoc - OrderID : 1, hash : 0x5b33fcd61cc204154580c04e98be978f61bfa0014257ee1281a3e66cb6a41c00
+[2018-02-11T21:11:09.874] [ERROR] BlockPoc - uncaught exception: TypeError: request.doPostHim is not a function
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:36:17)
+    at Object.contarctIns.methods.onPutChainMsg.send [as callback] (/Users/apple/program/poc_2018_02/rpc/eth.js:171:20)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:464:29)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:144:9
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpResponseEnd (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:509:12)
+    at IncomingMessage.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:469:24)
+    at IncomingMessage.emit (events.js:164:20)
+    at endReadableNT (_stream_readable.js:1062:12)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T21:11:24.575] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:11:29.406] [INFO] BlockPoc - OrderID : 2, hash : 0x2abb5c957d27ec0cb576bece020c4f278d5590e896d886e8204c6b6b18591e75
+[2018-02-11T21:11:29.408] [ERROR] BlockPoc - uncaught exception: TypeError: request.doPostHim is not a function
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:36:17)
+    at Object.contarctIns.methods.onPutChainMsg.send [as callback] (/Users/apple/program/poc_2018_02/rpc/eth.js:171:20)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:464:29)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:144:9
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpResponseEnd (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:509:12)
+    at IncomingMessage.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:469:24)
+    at IncomingMessage.emit (events.js:164:20)
+    at endReadableNT (_stream_readable.js:1062:12)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T21:13:35.758] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:13:36.682] [INFO] BlockPoc - OrderID : 3, hash : 0xee42d4e9781d8213b7bc48809f459ac0577ddaa5e3a3846ab2cb8ff6ac2016c8
+[2018-02-11T21:14:00.279] [ERROR] BlockPoc - uncaught exception: TypeError: request.doPostHim is not a function
+    at globalIns.rpcIns.onPutChainMsg (/Users/apple/program/poc_2018_02/apimanager/apis.js:36:17)
+    at Object.contarctIns.methods.onPutChainMsg.send [as callback] (/Users/apple/program/poc_2018_02/rpc/eth.js:171:20)
+    at sendTxCallback (/Users/apple/program/poc_2018_02/node_modules/web3-core-method/src/index.js:464:29)
+    at /Users/apple/program/poc_2018_02/node_modules/web3-core-requestmanager/src/index.js:144:9
+    at XMLHttpRequest.request.onreadystatechange (/Users/apple/program/poc_2018_02/node_modules/web3-providers-http/src/index.js:77:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpResponseEnd (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:509:12)
+    at IncomingMessage.<anonymous> (/Users/apple/program/poc_2018_02/node_modules/xhr2/lib/xhr2.js:469:24)
+    at IncomingMessage.emit (events.js:164:20)
+    at endReadableNT (_stream_readable.js:1062:12)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+[2018-02-11T21:14:00.339] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:14:39.226] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:14:39.230] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:14:39.231] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:14:39.238] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:14:39.246] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:14:50.532] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:14:51.564] [INFO] BlockPoc - OrderID : 1, hash : 0x2435ec379a94c76bad94693aa1d0512b3201f6057c2350f9a0dc6c7345eae909
+[2018-02-11T21:14:56.572] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:16:01.148] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:16:02.979] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:16:02.983] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:16:02.983] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:16:02.990] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:16:02.998] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:17:40.201] [INFO] BlockPoc - recv msg: client/1.0/replymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:18:04.731] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:18:06.680] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:18:06.683] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:18:06.683] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:18:06.690] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:18:06.698] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:18:10.386] [INFO] BlockPoc - recv msg: client/1.0/replymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:18:54.793] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:19:26.844] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:20:50.063] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:20:50.066] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:20:50.066] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:20:50.074] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:20:50.080] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:20:50.758] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:21:12.834] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:21:14.965] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:21:14.973] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:21:14.974] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:21:14.997] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:21:15.008] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:21:31.950] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:21:57.483] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:22:24.051] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:22:39.562] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:22:44.552] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:02.889] [INFO] BlockPoc - recv msg: client/1.0/replymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:17.288] [INFO] BlockPoc - recv msg: client/1.0/replymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:25.431] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:26.399] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:27.084] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:27.286] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:27.515] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:27.853] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:28.029] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:28.213] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:28.390] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:28.562] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:28.743] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:28.940] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:29.255] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:29.431] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:29.850] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:30.052] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:30.255] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:30.436] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:34.657] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:35.311] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:35.482] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:35.718] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:35.907] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:40.388] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:41.261] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:41.506] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:41.682] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:41.925] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:42.143] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:42.383] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:42.684] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:42.898] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:43.115] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:43.326] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:43.570] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:43.762] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:43.971] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:44.173] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:44.376] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:44.581] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:44.773] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:44.970] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:45.154] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:45.994] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:46.170] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:46.412] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:46.575] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:23:46.933] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:22.883] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:24.115] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:31.453] [INFO] BlockPoc - recv msg: client/1.0/replymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:38.647] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:43.286] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:44.191] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:44.753] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:44.951] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:45.378] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:45.610] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:46.205] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:46.807] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:47.552] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:48.490] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:49.073] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:49.298] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:49.481] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:49.836] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:50.039] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:50.286] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:50.572] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:50.762] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:51.210] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:51.839] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:52.566] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:53.118] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:53.647] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:54.160] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:54.533] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:54.835] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:55.133] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:55.298] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:55.611] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:55.829] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:56.064] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:57.932] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:58.535] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:59.289] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:27:59.878] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:00.458] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:01.084] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:01.632] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:02.270] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:02.782] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:03.041] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:03.499] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:03.712] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:03.926] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:04.129] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:04.520] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:04.702] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:04.901] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:05.281] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:05.466] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:05.655] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:05.842] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:06.029] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:28:06.246] [INFO] BlockPoc - recv msg: client/1.0/getreplymsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:03.887] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T21:43:05.708] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T21:43:05.711] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T21:43:05.711] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T21:43:05.712] [INFO] BlockPoc - register an api:client/1.0/getPutMsg
+[2018-02-11T21:43:05.718] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T21:43:05.725] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T21:43:31.764] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:36.817] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:42.255] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:43.232] [INFO] BlockPoc - OrderID : 1, hash : 0x36f09fde7517f118f0fd91f9f9e49b1e3a83adc918f3a283158db0768ac8abdf
+[2018-02-11T21:43:44.488] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:45.562] [INFO] BlockPoc - OrderID : 2, hash : 0xd9652dae0fbb81c32adce67159be5feda8f1c1d2b77df540038f9bd9f733612b
+[2018-02-11T21:43:46.606] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:47.546] [INFO] BlockPoc - OrderID : 3, hash : 0x4526a4695c3bbd144a19e7cfd76afece09d3e6e4bb9188f9bc48e5864ae328bc
+[2018-02-11T21:43:48.242] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:43:48.572] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:49.333] [INFO] BlockPoc - OrderID : 4, hash : 0xa17e681d9b89132c5f0e4011286d4b57d701763b1d034c73baf7bd8320040024
+[2018-02-11T21:43:50.166] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:50.570] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:43:50.916] [INFO] BlockPoc - OrderID : 5, hash : 0xe23e87375f733933cf1b53c7c1faafd8b6f6f01b30e04a246e2a0804181cf726
+[2018-02-11T21:43:51.549] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:52.451] [INFO] BlockPoc - OrderID : 6, hash : 0x4d05d9c71f8acf33fee81724914ae5d328ec3ac41bd2912ff4513be769c4cd57
+[2018-02-11T21:43:52.552] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:43:53.115] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:43:53.859] [INFO] BlockPoc - OrderID : 7, hash : 0x387eeb01507e618a8d626b09da116e91cabd8adb37a0975045bbd1e4f1b840a9
+[2018-02-11T21:43:54.338] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:43:55.923] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:43:57.458] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:43:58.865] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:44:00.665] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:01.450] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:01.642] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:01.867] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:02.184] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:02.372] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:02.706] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:02.900] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:05.287] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:05.500] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:05.708] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:05.908] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:10.115] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:10.815] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:11.021] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:11.216] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:11.629] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:11.833] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:12.011] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:12.211] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:12.378] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:13.210] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:14.055] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:14.309] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:15.018] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:16.113] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:16.812] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:17.341] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:17.533] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:17.741] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:17.933] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:20.757] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:21.563] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:22.062] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:22.267] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:22.468] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:22.663] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:22.983] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:23.167] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:23.364] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:23.539] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:23.741] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:24.039] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:24.231] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:24.408] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:24.588] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:24.772] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:44:24.952] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:47:07.562] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:47:08.647] [INFO] BlockPoc - OrderID : 8, hash : 0xc37f9c4f7e399eba320a1ad45dfe40802ddd8120316582c007d9e3e15e44af9c
+[2018-02-11T21:47:09.845] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T21:47:10.847] [INFO] BlockPoc - OrderID : 9, hash : 0x299a409e545d1880a039a5d607236cd7a3490947ef43be65e43985a2c4a38489
+[2018-02-11T21:47:13.669] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:47:15.855] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T21:48:34.482] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-11T22:02:21.180] [INFO] BlockPoc - register an api:client/1.0/putchainmsg
+[2018-02-11T22:02:21.183] [INFO] BlockPoc - register an api:client/1.0/replymsg
+[2018-02-11T22:02:21.184] [INFO] BlockPoc - register an api:client/1.0/getreplymsg
+[2018-02-11T22:02:21.184] [INFO] BlockPoc - register an api:client/1.0/getPutMsg
+[2018-02-11T22:02:21.191] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-11T22:02:21.198] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-11T22:02:23.705] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:29.985] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:34.697] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:35.490] [INFO] BlockPoc - OrderID : 1, hash : 0x9159b87abb7af42a1250b347c000fc2344637c61243fb2af75f5f66ba0fbda92
+[2018-02-11T22:02:36.559] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:37.684] [INFO] BlockPoc - OrderID : 2, hash : 0xf0973d6902dd666cd1b32107db047fdf298eadedae4a2c7fe6b4df00706fb4e9
+[2018-02-11T22:02:38.463] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:39.403] [INFO] BlockPoc - OrderID : 3, hash : 0xe9876115735e4de2311db6e37557733d19259593d3a0b201c931e1ba9699d5cf
+[2018-02-11T22:02:40.060] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:40.505] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:40.857] [INFO] BlockPoc - OrderID : 4, hash : 0xbab2d702bfde4191b498257decd14b4f04822a586d32b66db4909915ffda433b
+[2018-02-11T22:02:41.569] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:42.344] [INFO] BlockPoc - OrderID : 5, hash : 0x057331346460b6a6eb0976b783c99beac3323f4e69792bbd552e12807d929917
+[2018-02-11T22:02:42.691] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:43.055] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:43.804] [INFO] BlockPoc - OrderID : 6, hash : 0x92d23b84269a31691f2d11910efdd35f5479db2a7b1f992240bbbb01d8a24a9b
+[2018-02-11T22:02:44.406] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:44.409] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:45.192] [INFO] BlockPoc - OrderID : 7, hash : 0x0283fd538e9fe03c4c831a2d34296f13b56f2836f2b95b822e4ca585fce5e35f
+[2018-02-11T22:02:45.866] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:45.945] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:46.695] [INFO] BlockPoc - OrderID : 8, hash : 0x8f8c236382aa4ac3013d26b53c11d303591176cba5f16eddbd6484bdb1fd6802
+[2018-02-11T22:02:47.307] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:47.347] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:48.081] [INFO] BlockPoc - OrderID : 9, hash : 0x2a21f41910aa3f8de795aecf164e6d0834b1d007a055fc4d791fbc8375037a6d
+[2018-02-11T22:02:48.706] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:48.810] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:49.470] [INFO] BlockPoc - OrderID : 10, hash : 0xc18aeab4b850ada8252afff62c0e0ae4118f3c8c3113ebd5f0d4558f2344716d
+[2018-02-11T22:02:50.198] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:50.369] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:51.133] [INFO] BlockPoc - OrderID : 11, hash : 0xc8d3d87658d63c9f3bda5b3c759a9857494e4acbbb2724e99018c168731339aa
+[2018-02-11T22:02:51.699] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:52.370] [INFO] BlockPoc - recv msg: client/1.0/putchainmsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:02:53.083] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:53.143] [INFO] BlockPoc - OrderID : 12, hash : 0xe08553e276deafb31e6bc0b05098904437e6d7620a7e9f97ab2666f50db23349
+[2018-02-11T22:02:54.478] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:56.138] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:02:58.149] [ERROR] BlockPoc - uncaught exception: TypeError: areturn is not a function
+    at Request._callback (/Users/apple/program/poc_2018_02/apimanager/request.js:14:20)
+    at self.callback (/Users/apple/program/poc_2018_02/node_modules/request/request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.init (/Users/apple/program/poc_2018_02/node_modules/request/request.js:274:17)
+    at new Request (/Users/apple/program/poc_2018_02/node_modules/request/request.js:128:8)
+    at request (/Users/apple/program/poc_2018_02/node_modules/request/index.js:53:10)
+    at Function.post (/Users/apple/program/poc_2018_02/node_modules/request/index.js:61:12)
+    at Timeout.doPostHim [as _onTimeout] (/Users/apple/program/poc_2018_02/apimanager/request.js:7:13)
+    at ontimeout (timers.js:468:13)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[2018-02-11T22:03:01.825] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:02.610] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:03.158] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:03.371] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:03.640] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:04.008] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:04.291] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:04.488] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:04.695] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:03:04.882] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:04:05.386] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:04:10.085] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:04:14.303] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:04:17.463] [INFO] BlockPoc - recv msg: client/1.0/getPutMsg, params:[object Object], account:%s, token:%s
+[2018-02-11T22:04:25.815] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined

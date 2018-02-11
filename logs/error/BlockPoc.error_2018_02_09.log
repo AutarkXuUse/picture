@@ -1,0 +1,11 @@
+[2018-02-09T13:53:41.690] [ERROR] BlockPoc - uncaught exception: ReferenceError: ServerConfig is not defined
+    at runServer (/Users/apple/program/poc_2018_02/app.js:42:59)
+    at /Users/apple/program/poc_2018_02/app.js:87:5
+    at /Users/apple/program/poc_2018_02/app.js:23:16
+    at /Users/apple/program/poc_2018_02/node_modules/async/dist/async.js:3874:9
+    at /Users/apple/program/poc_2018_02/node_modules/async/dist/async.js:473:16
+    at replenish (/Users/apple/program/poc_2018_02/node_modules/async/dist/async.js:993:25)
+    at iterateeCallback (/Users/apple/program/poc_2018_02/node_modules/async/dist/async.js:983:17)
+    at /Users/apple/program/poc_2018_02/node_modules/async/dist/async.js:958:16
+    at /Users/apple/program/poc_2018_02/node_modules/async/dist/async.js:3871:13
+    at /Users/apple/program/poc_2018_02/app.js:16:13

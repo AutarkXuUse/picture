@@ -1,0 +1,8 @@
+[2018-02-11T16:20:08.124] [ERROR] /usr/local/bin/node - invalid argument 2: json: cannot unmarshal string into Go value of type uint64
+[2018-02-11T16:22:59.192] [ERROR] /usr/local/bin/node - Returned error: invalid argument 2: json: cannot unmarshal string into Go value of type uint64
+[2018-02-11T16:34:44.690] [ERROR] /usr/local/bin/node - invalid argument 2: json: cannot unmarshal string into Go value of type uint64
+[2018-02-11T16:50:07.377] [ERROR] /usr/local/bin/node - invalid argument 2: json: cannot unmarshal string into Go value of type uint64
+[2018-02-11T16:50:49.808] [ERROR] /usr/local/bin/node - invalid argument 2: json: cannot unmarshal string into Go value of type uint64
+[2018-02-11T16:51:01.889] [ERROR] /usr/local/bin/node - invalid argument 2: json: cannot unmarshal string into Go value of type uint64
+[2018-02-11T16:51:31.267] [ERROR] /usr/local/bin/node - invalid argument 1: json: cannot unmarshal number into Go value of type string
+[2018-02-11T17:15:03.232] [ERROR] /usr/local/bin/node - invalid argument 1: json: cannot unmarshal number into Go value of type string

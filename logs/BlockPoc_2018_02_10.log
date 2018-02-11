@@ -1,0 +1,61 @@
+[2018-02-10T13:12:23.999] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T13:12:24.004] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T13:12:24.004] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T13:12:24.012] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T13:12:26.216] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T13:12:48.294] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T13:12:48.301] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T13:12:48.302] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T13:12:48.318] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T13:12:49.272] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T13:13:00.617] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T13:13:00.623] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T13:13:00.624] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T13:13:00.633] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T13:13:01.660] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T13:13:20.578] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T13:13:20.581] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T13:13:20.582] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T13:13:20.592] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T13:13:22.546] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T13:13:54.297] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T13:13:54.303] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T13:13:54.304] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T13:13:54.311] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T13:13:55.688] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T17:52:09.681] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:52:09.690] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:52:52.553] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:52:52.558] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:53:04.535] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:53:04.540] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:53:11.335] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:53:11.339] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:53:16.023] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:53:16.027] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:53:30.982] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:53:30.986] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:55:21.157] [INFO] BlockPoc - register an api:/putChainMsg
+[2018-02-10T17:55:21.163] [INFO] BlockPoc - register an api:/replyMsg
+[2018-02-10T17:55:36.470] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T17:55:36.479] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T18:03:43.009] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T18:03:44.788] [INFO] BlockPoc - register an api:/1/putChainMsg
+[2018-02-10T18:03:44.792] [INFO] BlockPoc - register an api:/1/replyMsg
+[2018-02-10T18:03:44.813] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T18:03:44.821] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T18:04:01.001] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T18:04:02.512] [INFO] BlockPoc - register an api:/1.0/putChainMsg
+[2018-02-10T18:04:02.514] [INFO] BlockPoc - register an api:/1.0/replyMsg
+[2018-02-10T18:04:02.531] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T18:04:02.538] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T18:12:23.579] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T18:12:25.083] [INFO] BlockPoc - register an api:/client/1.0/putChainMsg
+[2018-02-10T18:12:25.086] [INFO] BlockPoc - register an api:/client/1.0/replyMsg
+[2018-02-10T18:12:25.114] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T18:12:25.122] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
+[2018-02-10T18:12:56.981] [WARN] BlockPoc - SIGINT处理，准备退出 SIGINT undefined
+[2018-02-10T18:12:58.481] [INFO] BlockPoc - register an api:/client/1.0/putchainmsg
+[2018-02-10T18:12:58.484] [INFO] BlockPoc - register an api:/client/1.0/replymsg
+[2018-02-10T18:12:58.503] [INFO] BlockPoc - Server init success.Start running ...
+[2018-02-10T18:12:58.510] [INFO] BlockPoc - wallet server start at: { address: '0.0.0.0', family: 'IPv4', port: 12345 }
