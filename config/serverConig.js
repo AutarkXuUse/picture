@@ -1,6 +1,6 @@
 'use strict'
 
 module.exports={
-    hisHost:'127.0.0.1',
-    hisPort:80
+    hisHost:'10.200.150.5',
+    hisPort:4000
 }

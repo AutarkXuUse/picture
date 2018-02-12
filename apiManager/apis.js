@@ -9,9 +9,10 @@ let apiList = new Map();
 function onPutChainMsg(params, res, areturn) {
     let globalIns = require('../app').globalIns;
     let member = params.member;
+    //let data = JSON.stringify(params.data);
     let data = params.data;
     let ipAddr = "127.0.0.1";
-    let orderID = globalIns.orderID;
+    let orderID = Date.now();
 
     globalIns.rpcIns.onPutChainMsg(member, data, ipAddr, orderID, (err, result) => {
         if (err) {
@@ -25,7 +26,7 @@ function onPutChainMsg(params, res, areturn) {
 
         Logger.info("OrderID : " + orderID + ", hash : " + result);
 
-        globalIns.orderID++;
+        //globalIns.orderID++;
 
         let postContent = {
             member: member,
@@ -33,20 +34,23 @@ function onPutChainMsg(params, res, areturn) {
             orderID: orderID,
         }
 
-        request.doPostHim(postContent, (err, returnMsg) => {
-            if (err) {
-                //todo need log
-                setTimeout(request.doPostHim, 5000, postContent);
-            }
-            return areturn();
-        });
+        request.doPostHim(JSON.stringify(postContent),function (err,result) {
+               if(err){
+                   Logger.error('PostHim Error');
+                   return areturn(err);
+               }
+               Logger.info("PostHim finished");
+               return areturn();
+        })
+
     });
 }
 
 function onReplyMsg(params, res, areturn) {
     let globalIns = require('../app').globalIns;
     let member = params.member;
-    let isPaticipate = params.isPaticipate;
+    let isPaticipate = params.isPaticipate?params.isPaticipate:Number(0);
+    //let data = JSON.stringify(params.data);
     let data = params.data;
     let orderID = params.orderID;
 
@@ -58,7 +62,7 @@ function onReplyMsg(params, res, areturn) {
             res.end(500);
             return areturn(err);
         }
-
+        Logger.warn("reply Msg put Chain SUCCESS");
         res.write(JSON.stringify({isSuccess: true, hash: result}));
         res.end();
         return areturn();
@@ -103,20 +107,20 @@ function onGetPutMsg(params, res, areturn) {
 
 function requestHandler(req, res) {
     let pathName = Url.parse(req.url).pathname.substr(1);
-    let params, account, token, phoneID;
+    let params;
     if (req.method == 'GET') {
         Logger.warn("GET method from ：" + req.ip);
         //
     }
     else {
-        if (req.body.account) {
-            account = req.body.account;
-        }
         if (req.body) {
             params = req.body;
+            // if(req.headers['content-type'] === 'application/json'){
+            //     params=JSON.parse(req.body);
+            // }
         }
     }
-    Logger.info("recv msg: %s, params:%s, account:%s, token:%s", pathName, params);
+    Logger.info("recv msg: %s, params:%s", pathName, params);
 
     if (params && typeof params === 'string') {
         try {
@@ -136,7 +140,7 @@ function requestHandler(req, res) {
     if (handler) {
         handler(params, res, function (err, result) {
             if (err) {
-                Logger.error('[CLIENT] ', result.message);
+                Logger.error('[CLIENT] ', err.message);
             }
             res.end();
         })
