@@ -39,7 +39,7 @@ function onPutChainMsg(params, res, areturn) {
                    Logger.error('PostHim Error');
                    return areturn(err);
                }
-               Logger.info("PostHim finished");
+               Logger.warn("PostHim finished");
                return areturn();
         })
 
@@ -62,7 +62,7 @@ function onReplyMsg(params, res, areturn) {
             res.end(500);
             return areturn(err);
         }
-        Logger.warn("reply Msg put Chain SUCCESS");
+        Logger.warn("reply Msg put Chain SUCCESS,hash: "+result);
         res.write(JSON.stringify({isSuccess: true, hash: result}));
         res.end();
         return areturn();
@@ -83,6 +83,10 @@ function onGetReplyMsg(params, res, areturn) {
             member: result.member,
             isParticipate: result.isParticipate,
             data: result.data
+        }
+
+        if(result.data){
+            Logger.warn('Get order Participate SUCCESS,orderID: '+params.orderID);
         }
 
         res.write(JSON.stringify(returnMsg));
@@ -120,7 +124,7 @@ function requestHandler(req, res) {
             // }
         }
     }
-    Logger.info("recv msg: %s, params:%s", pathName, params);
+    Logger.info("recv msg: %s, params:%s", pathName, JSON.stringify(params));
 
     if (params && typeof params === 'string') {
         try {
